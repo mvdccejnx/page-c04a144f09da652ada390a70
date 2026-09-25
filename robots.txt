@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--emovpn-u40k507h.com/sitemap.xml
